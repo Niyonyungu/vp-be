@@ -24,7 +24,7 @@ const ProjectSchema = new mongoose.Schema({
     category: {
         type: String,
         required: [true, 'Please add a category'],
-        enum: ['Web App', 'UI Design', 'Open Source', 'Other']
+        enum: ['Web App', 'UI Design', 'Branding', 'Other']
     },
     isPrivate: {
         type: Boolean,
