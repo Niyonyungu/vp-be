@@ -1,4 +1,4 @@
-# andasy.hcl app configuration file generated for vp-be on Saturday, 21-Mar-26 15:49:06 EET
+# andasy.hcl app configuration file generated for vp-be on Monday, 23-Mar-26 11:27:49 EET
 #
 # See https://github.com/quarksgroup/andasy-cli for information about how to use this file.
 
@@ -8,7 +8,7 @@ app {
 
   env = {}
 
-  port = 4000
+  port = 3000
 
   primary_region = "kgl"
 
